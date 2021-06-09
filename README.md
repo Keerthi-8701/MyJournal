@@ -28,7 +28,7 @@ In this page, all the pending events that are fed by the user would be displayed
 **ADD_NEW_EVENT:**  
 Clicking the ‘+’ button in the MyJournal page directs the user to another page where it allows the user to add a new event, which collects the details from the user like event title, description of the event, Date and time before the event has to be completed.   
 **MODIFY_EVENT:**  
-Clicking on the modify button/link next to the events displayed in the MyJournal page will allow the user to edit the task entered.
+Clicking on the modify button/link next to the events displayed in the MyJournal page will allow the user to edit the task entered.  
 **START_TIMER:**  
 Clicking on the start timer button/link next to the events displayed in the MyJournal page will allow the user to track the amount of time worked on the task entered. On clicking this button for the first time, the actual start time of the module/event would be recorded in the database.  
 **ADD_COMPLETED_WORK:**  
